@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+.env.local
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+.DS_Store
+*.log
+.claude/
+
+# Module repos are standalone git repos — don't nest them as submodules
+modules/*/.git
+
+# Module build artifacts — source is .jsx
+modules/*/index.js
+modules/*/index.d.ts
+modules/*/*.map
+modules/*/*.bak

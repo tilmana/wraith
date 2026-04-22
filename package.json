@@ -1,0 +1,23 @@
+{
+  "name": "wraith",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Educational browser hook framework for security research",
+  "license": "MIT",
+  "author": "tilmana",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tilmana/wraith"
+  },
+  "keywords": ["security", "browser-hook", "c2", "pentest", "educational"],
+  "scripts": {
+    "dev": "concurrently \"pnpm --filter @wraith/server dev\" \"pnpm --filter @wraith/ui dev\"",
+    "build": "pnpm --filter @wraith/types build && pnpm --filter @wraith/agent build && pnpm --filter @wraith/server build && pnpm --filter @wraith/ui build",
+    "build:agent": "pnpm --filter @wraith/agent build",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "typescript": "^5.4.5"
+  }
+}
