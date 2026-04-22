@@ -99,3 +99,20 @@ Each module needs:
 ## License
 
 [MIT](LICENSE) — with an additional use restriction requiring explicit authorization for all testing.
+
+--
+
+## Demo Screenshots
+
+- Admin Panel Login
+<img width="1885" height="979" alt="image" src="https://github.com/user-attachments/assets/83bd20ee-c09e-48b0-9246-fbad82c61e62" />
+
+- Target Browser Tab
+<img width="1971" height="999" alt="image" src="https://github.com/user-attachments/assets/1bb089fa-1242-435b-8d8d-45036eb2eda4" />
+
+- Active Session Listed
+<img width="2502" height="868" alt="image" src="https://github.com/user-attachments/assets/9b22ad8c-6cbe-47cb-8e57-d2e15b8e94b0" />
+
+- Modules Connected to Session
+<img width="2124" height="1227" alt="image" src="https://github.com/user-attachments/assets/a8dc21c6-b370-40bd-8e00-7c6d6a970d7a" />
+
