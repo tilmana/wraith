@@ -10,11 +10,5 @@ dist/
 *.log
 .claude/
 
-# Module repos are standalone git repos — don't nest them as submodules
-modules/*/.git
-
-# Module build artifacts — source is .jsx
-modules/*/index.js
-modules/*/index.d.ts
-modules/*/*.map
-modules/*/*.bak
+# Module repos are standalone — cloned into modules/ by users, not tracked by framework
+modules/wraith-*/
