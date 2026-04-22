@@ -109,7 +109,7 @@ Each module needs:
 <img width="1885" height="979" alt="image" src="https://github.com/user-attachments/assets/83bd20ee-c09e-48b0-9246-fbad82c61e62" />
 
 - Target Browser Tab
-<img width="1971" height="999" alt="image" src="https://github.com/user-attachments/assets/1bb089fa-1242-435b-8d8d-45036eb2eda4" />
+<img width="1987" height="1015" alt="image" src="https://github.com/user-attachments/assets/73ad1b7b-7382-4c7e-877d-d7d767f8db25" />
 
 - Active Session Listed
 <img width="2502" height="868" alt="image" src="https://github.com/user-attachments/assets/9b22ad8c-6cbe-47cb-8e57-d2e15b8e94b0" />
@@ -117,3 +117,36 @@ Each module needs:
 - Modules Connected to Session
 <img width="2124" height="1227" alt="image" src="https://github.com/user-attachments/assets/a8dc21c6-b370-40bd-8e00-7c6d6a970d7a" />
 
+- Mouse Tracker Module Example
+<img width="2970" height="1161" alt="image" src="https://github.com/user-attachments/assets/22182840-67a5-4587-b159-c9adc2443639" />
+
+- Devices Module Example
+<img width="2948" height="1082" alt="image" src="https://github.com/user-attachments/assets/5ce15768-13b9-4f63-9d43-279d7a8e16d6" />
+
+-- Prompt User for Audio Device Connection
+<img width="914" height="637" alt="image" src="https://github.com/user-attachments/assets/6623628a-76e1-4d8f-ba59-294b8395e655" />
+
+-- Decline Response Received and Logged
+<img width="985" height="543" alt="image" src="https://github.com/user-attachments/assets/80501604-50d2-4616-a872-7b2bd04929ef" />
+
+- Idle Tracker Module Example (1/2)
+<img width="2948" height="1151" alt="image" src="https://github.com/user-attachments/assets/af2a8055-dc1e-40f5-a73c-ef7d9166ee1b" />
+-- Idle Tracker Module Example (2/2)
+<img width="1344" height="857" alt="image" src="https://github.com/user-attachments/assets/5cd4b7bc-258b-4a24-9189-8fa7f28c5f5c" />
+
+- Keylogger Module Example (1/2)
+<img width="1309" height="1106" alt="image" src="https://github.com/user-attachments/assets/362da095-2ed9-4ef1-a480-231b5b40c62b" />
+-- Keylogger Module Example (2/2)
+<img width="2703" height="1142" alt="image" src="https://github.com/user-attachments/assets/1df63803-0ca9-4212-b2a1-277d16291e86" />
+
+- Utils Module Example (1/4)
+<img width="2964" height="1167" alt="image" src="https://github.com/user-attachments/assets/50cfb10f-d1c1-41b4-9fc6-3b16e1d6e42e" />
+-- Utils Module Example (2/4)
+<img width="2967" height="1178" alt="image" src="https://github.com/user-attachments/assets/361c050c-907e-43bd-bb9a-658496bf36fb" />
+-- Utils Module Example (3/4)
+<img width="2966" height="1168" alt="image" src="https://github.com/user-attachments/assets/bac35d91-d2a1-4f6b-bc95-8ed5cb710907" />
+-- Utils Module Example (4/4)
+<img width="2989" height="728" alt="image" src="https://github.com/user-attachments/assets/bde0bfa6-6734-4422-b4dc-1b9938c9d2ed" />
+
+- WebRTC Module Example
+<img width="2956" height="814" alt="image" src="https://github.com/user-attachments/assets/6404101c-f8de-42cb-becb-9691d797a5dd" />
