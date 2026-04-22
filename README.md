@@ -44,15 +44,16 @@ code changes required.
 
 ---
 
-## Bundled modules
+## Official modules
 
 | Module | Description |
 |--------|-------------|
-| [wraith-cursor](modules/wraith-cursor/) | Mouse & click tracking with heatmap, drag detection, and replay |
-| [wraith-keylog](modules/wraith-keylog/) | Keystroke capture with live keyboard display, frequency heatmap, and text reconstruction |
-| [wraith-utils](modules/wraith-utils/) | One-shot browser, hardware, network, storage, and fingerprint collection |
-| [wraith-webrtc](modules/wraith-webrtc/) | WebRTC STUN IP leak — extracts real IPs behind VPN/proxy |
-| [wraith-devices](modules/wraith-devices/) | Device enumeration with permission prompting and attempt tracking |
+| [wraith-cursor](https://github.com/tilmana/wraith-cursor) | Mouse & click tracking with heatmap, drag detection, and replay |
+| [wraith-keylog](https://github.com/tilmana/wraith-keylog) | Keystroke capture with live keyboard display, frequency heatmap, and text reconstruction |
+| [wraith-utils](https://github.com/tilmana/wraith-utils) | One-shot browser, hardware, network, storage, and fingerprint collection |
+| [wraith-webrtc](https://github.com/tilmana/wraith-webrtc) | WebRTC STUN IP leak — extracts real IPs behind VPN/proxy |
+| [wraith-devices](https://github.com/tilmana/wraith-devices) | Device enumeration with permission prompting and attempt tracking |
+| [wraith-idle](https://github.com/tilmana/wraith-idle) | Idle & tab visibility tracking with time breakdown and event timeline |
 
 ---
 
@@ -100,7 +101,7 @@ Each module needs:
 
 [MIT](LICENSE) — with an additional use restriction requiring explicit authorization for all testing.
 
---
+---
 
 ## Demo Screenshots
 
